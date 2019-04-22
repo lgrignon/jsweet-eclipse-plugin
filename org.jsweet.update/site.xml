@@ -3,58 +3,7 @@
    <description name="JSweet" url="http://eclipse-update-site.jsweet.org">
       JSweet transpiler update site
    </description>
-   <feature url="features/org.jsweet.feature_0.9.1.201512081614.jar" id="org.jsweet.feature" version="0.9.1.201512081614">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.1.201512081616.jar" id="org.jsweet.feature" version="0.9.1.201512081616">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.1.201512141810.jar" id="org.jsweet.feature" version="0.9.1.201512141810">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.1.201601041939.jar" id="org.jsweet.feature" version="0.9.1.201601041939">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.2.201601211132.jar" id="org.jsweet.feature" version="0.9.2.201601211132">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.2.201601251806.jar" id="org.jsweet.feature" version="0.9.2.201601251806">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.3.201602021403.jar" id="org.jsweet.feature" version="0.9.3.201602021403">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.3.201602051118.jar" id="org.jsweet.feature" version="0.9.3.201602051118">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201605251801.jar" id="org.jsweet.feature" version="0.9.4.201605251801">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201605251802.jar" id="org.jsweet.feature" version="0.9.4.201605251802">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201605260823.jar" id="org.jsweet.feature" version="0.9.4.201605260823">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201609110806.jar" id="org.jsweet.feature" version="0.9.4.201609110806">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201611032238.jar" id="org.jsweet.feature" version="0.9.4.201611032238">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201611040322.jar" id="org.jsweet.feature" version="0.9.4.201611040322">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201611230926.jar" id="org.jsweet.feature" version="0.9.4.201611230926">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.4.201612161335.jar" id="org.jsweet.feature" version="0.9.4.201612161335">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.5.201708102202.jar" id="org.jsweet.feature" version="0.9.5.201708102202">
-      <category name="JSweet"/>
-   </feature>
-   <feature url="features/org.jsweet.feature_0.9.6.20190421.jar" id="org.jsweet.feature" version="0.9.6.20190421">
+   <feature url="features/org.jsweet.feature_0.9.6.20190422.jar" id="org.jsweet.feature" version="0.9.6.20190422">
       <category name="JSweet"/>
    </feature>
    <category-def name="JSweet" label="JSweet">

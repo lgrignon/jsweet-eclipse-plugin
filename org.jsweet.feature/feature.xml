@@ -2,13 +2,13 @@
 <feature
       id="org.jsweet.feature"
       label="JSweet"
-      version="0.9.6.20190421"
+      version="0.9.6.20190422"
       provider-name="JSweet"
       plugin="org.jsweet.plugin">
 
    <description url="http://www.jsweet.org">
-      JSweet is a way to create WEB applications using Javascript
-APIs with the Java syntax.
+      JSweet allows you to turn you Java code into TypeScript, and JavaScript code.
+      You need to run Eclipse with the JDK (not the JRE).
    </description>
 
    <copyright url="http://www.jsweet.org">
